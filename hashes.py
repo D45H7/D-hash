@@ -43,8 +43,8 @@ with 3 doublequotes
   parser.add_argument('-sha3-384',help='sha3/384 hash algorithm')
   parser.add_argument('-sha3-512',help='sha3/512 hash algorithm')
   parser.add_argument('-sha512',help='sha512 hash algorithm')
-  parser.add_argument('-shake128',help='shake-128 hash algorithm')
-  parser.add_argument('-shake256',help='shake-256 hash algorithm')
+  parser.add_argument('-shake-128',help='shake-128 hash algorithm')
+  parser.add_argument('-shake-256',help='shake-256 hash algorithm')
   
   arg = parser.parse_args()
   
