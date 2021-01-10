@@ -1,0 +1,2 @@
+# D-hash
+Hashes #++ Function 
